@@ -1,0 +1,110 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 641900,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooks.setup(Scenario)"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "Department data UI and Database verification",
+        "description": "",
+        "id": "hr-application-and-database-and-ui-data-verification;department-data-ui-and-database-verification",
+        "after": [
+          {
+            "result": {
+              "duration": 4500,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 34000,
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "I am on DepEmpPage",
+            "match": {
+              "location": "HRApp_Steps.i_am_on_DepEmpPage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 7000,
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "I search for departmentid 10",
+            "match": {
+              "arguments": [
+                {
+                  "val": "10",
+                  "offset": 26
+                }
+              ],
+              "location": "HRApp_Steps.i_search_for_departmentid(Integer)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 5300,
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "I query database with sql \"Select department_name, manager_id, location_id from department where department_id \u003d 10\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Select department_name, manager_id, location_id from department where department_id \u003d 10\"",
+                  "offset": 26
+                }
+              ],
+              "location": "HRApp_Steps.i_query_database_with_sql(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5400,
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "UI data and Database data must match",
+            "match": {
+              "location": "HRApp_Steps.ui_data_and_Database_data_must_match()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@HRAppDB"
+          }
+        ]
+      }
+    ],
+    "name": "Hr Application and Database and UI data verification",
+    "description": "",
+    "id": "hr-application-and-database-and-ui-data-verification",
+    "keyword": "Feature",
+    "uri": "src/test/resources/hrapp_feature/Database and Front end data validation.feature",
+    "tags": []
+  }
+]
