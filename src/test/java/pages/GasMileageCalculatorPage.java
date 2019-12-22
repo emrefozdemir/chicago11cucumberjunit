@@ -11,8 +11,12 @@ public class GasMileageCalculatorPage {
         PageFactory.initElements(Driver.getDriver(), this);
     }
 
+// all web pages are located
+
     @FindBy(id = "uscodreading")
     public WebElement currentOdo;
+
+// in pages class i'm locatin my all webelements
 
     @FindBy(id = "uspodreading")
     public WebElement previousOdo;
@@ -22,6 +26,7 @@ public class GasMileageCalculatorPage {
 
     @FindBy(xpath = "(//input[@value='Calculate'])[1]")
     public WebElement calculateButton;
+
     @FindBy(xpath = "//b[contains(text(), 'mpg')]")
     public WebElement resultInGas;
 

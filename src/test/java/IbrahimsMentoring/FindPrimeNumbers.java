@@ -19,6 +19,7 @@ public class FindPrimeNumbers {
     public static boolean isPrime(int number){
         boolean prime = true;
         if(number < 2) return false;
+
         for(int i = 2; i < Math.sqrt(number); i++){
             if(number % i == 0){
                 prime = false;
@@ -28,5 +29,4 @@ public class FindPrimeNumbers {
 
         return prime;
     }
-
 }

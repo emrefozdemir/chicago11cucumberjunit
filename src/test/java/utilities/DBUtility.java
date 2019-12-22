@@ -4,11 +4,15 @@ import java.sql.*;
 import java.util.*;
 
 public class DBUtility {
+
     private static Connection connection;
     private static Statement statement;
     private static ResultSet resultSet;
 
+    //those are in my utility reusable methods
+
     public static void establishConnection(DBType dBType) throws SQLException {
+
         switch (dBType){
             case ORACLE:
                 connection = DriverManager.getConnection(Config.getProperty("oracledb.url"), Config.getProperty("oracledb.user"),
@@ -61,9 +65,7 @@ public class DBUtility {
         }catch (Exception e){
             e.printStackTrace();
         }
-
     }
-
 }
 
 

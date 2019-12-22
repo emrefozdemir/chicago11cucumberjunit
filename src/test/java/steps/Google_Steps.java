@@ -10,7 +10,7 @@ import org.openqa.selenium.WebElement;
 import utilities.Driver;
 
 
-public class Google_Steps {
+public class  Google_Steps {
 
     @When("User is on Google search page")
     public void user_is_on_Google_search_page() {

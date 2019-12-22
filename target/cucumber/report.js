@@ -1,63 +1,71 @@
-$(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.cucumber-report'));formatter.uri("src/test/resources/hrapp_feature/Database and Front end data validation.feature");
+$(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.cucumber-report'));formatter.uri("file:src/test/resources/features/wikipedia.feature");
 formatter.feature({
-  "name": "Hr Application and Database and UI data verification",
+  "name": "Wikipedia Search Functionality Title Verification",
   "description": "",
-  "keyword": "Feature"
+  "keyword": "Feature",
+  "tags": [
+    {
+      "name": "@wikipedia"
+    }
+  ]
 });
 formatter.scenario({
-  "name": "Department data UI and Database verification",
+  "name": "",
   "description": "",
   "keyword": "Scenario",
   "tags": [
     {
-      "name": "@HRAppDB"
+      "name": "@wikipedia"
+    },
+    {
+      "name": "@testReport"
     }
   ]
 });
 formatter.before({
-  "status": "skipped"
+  "status": "passed"
 });
 formatter.step({
-  "name": "I am on DepEmpPage",
+  "name": "User is on Wikipedia home page",
   "keyword": "Given "
 });
 formatter.match({
-  "location": "HRApp_Steps.i_am_on_DepEmpPage()"
+  "location": "Wikipedia_Steps.user_is_on_Wikipedia_home_page()"
 });
 formatter.result({
-  "status": "skipped"
+  "status": "passed"
 });
 formatter.step({
-  "name": "I search for departmentid 10",
+  "name": "User types \"Steve Jobs\" in the search box",
   "keyword": "When "
 });
 formatter.match({
-  "location": "HRApp_Steps.i_search_for_departmentid(Integer)"
+  "location": "Wikipedia_Steps.user_types_in_the_search_box(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "status": "passed"
 });
 formatter.step({
-  "name": "I query database with sql \"Select department_name, manager_id, location_id from department where department_id \u003d 10\"",
+  "name": "User click search button",
   "keyword": "And "
 });
 formatter.match({
-  "location": "HRApp_Steps.i_query_database_with_sql(String)"
+  "location": "Wikipedia_Steps.user_click_search_button()"
 });
 formatter.result({
-  "status": "skipped"
+  "status": "passed"
 });
 formatter.step({
-  "name": "UI data and Database data must match",
+  "name": "User sees \"Steve Jobs\" is in the title",
   "keyword": "Then "
 });
 formatter.match({
-  "location": "HRApp_Steps.ui_data_and_Database_data_must_match()"
+  "location": "Wikipedia_Steps.user_sees_is_in_the_title(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "status": "passed"
 });
 formatter.after({
-  "status": "skipped"
+  "status": "passed"
 });
 });

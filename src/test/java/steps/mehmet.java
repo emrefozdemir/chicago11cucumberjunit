@@ -4,15 +4,11 @@ import org.junit.Test;
 import org.openqa.selenium.By;
 import utilities.Driver;
 
+import java.util.List;
+import java.util.Set;
+
 public class mehmet {
 
-    public static void main(String[] args) {
-        try{
-            System.out.println("str".charAt(5));
-        }catch (Exception e){
-            e.printStackTrace();
-        }
-    }
     @Test
     public void practice(){
         Driver.getDriver().get("https://www.google.com/");
@@ -20,6 +16,10 @@ public class mehmet {
         System.out.println(Driver.getDriver().getCurrentUrl());
 
         Driver.getDriver().findElement(By.name("q")).sendKeys();
+
+        Set<String> names;
+
+        List<String> numbers;
 
 
     }

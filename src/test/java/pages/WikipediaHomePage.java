@@ -6,7 +6,8 @@ import org.openqa.selenium.support.PageFactory;
 import utilities.Driver;
 
 public class WikipediaHomePage {
-    public WikipediaHomePage(){
+
+    public WikipediaHomePage() {
         PageFactory.initElements(Driver.getDriver(),this);
     }
 
