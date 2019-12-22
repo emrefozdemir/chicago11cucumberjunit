@@ -1,129 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e090a804-bcb3-455d-8c5d-c5e8ba4f9e23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/APItestingByHamza/APITesting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/APItestingByHamza/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/IbrahimsMentoring/practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/OCC/CodingChallange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Thread/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apiModels/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apiModels/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apiModels/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apiModels/Contact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apiModels/CustomResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apiModels/Instructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apiModels/Mapping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apiModels/PojoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apiModels/RequestBody.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apiModels/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apitests/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apitests/CMstudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apitests/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apitests/JsonMapping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apitests/PostAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apitests/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/collections/ArrayToArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/collections/CollectionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/collections/hashMapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/collections/hashSetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/collections/hashmap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fakeAPI/API.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fakeAPI/ApiTesting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fakeAPI/DB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fakeAPI/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/interviewQuestions/ChristmastTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/interviewQuestions/DuplicateWordsInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/interviewQuestions/FindPairWithGivenSumInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/interviewQuestions/HalfChristmastTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/interviewQuestions/OccuranceOfArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/interviewQuestions/Programmer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/interviewQuestions/ProgrammerTeacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/interviewQuestions/RemoveDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/interviewQuestions/SecretNapolean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/interviewQuestions/mirzatProgrammer/FileReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/interviewQuestions/mirzatProgrammer/MaxSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/interviewQuestions/mirzatProgrammer/Programmer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/interviewQuestions/mirzatProgrammer/ProgrammerTeacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/interviewQuestions/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/interviewQuestions/timeInWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/HRAppDeptEmpPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/realRestAssured/CyberAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/realRestAssured/GeneralResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/realRestAssured/GeneralTeacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/realRestAssured/emre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/steps/apiSteps/SingleStudents_Steps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/steps/apiSteps/StudentEmail_Steps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/steps/apiSteps/StudentTitle_Steps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test/AndroidTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/APIRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/AndroidApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/MyMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/apiFeatures/StudentTitle/studentEmail.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/apiFeatures/StudentTitle/studentTitle.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/apiFeatures/singleStudent.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/IbrahimsMentoring/FindPrimeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/IbrahimsMentoring/FindPrimeNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/IbrahimsMentoring/StringReverseMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/IbrahimsMentoring/StringReverseMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/app/tests/JDBCConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JDBC/JDBCConnection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/GasMileageCalculatorPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/GasMileageCalculatorPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/WikipediaHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/WikipediaHomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/runners/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runners/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/steps/Amazon_Steps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/Amazon_Steps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/steps/Google_Steps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/Google_Steps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/steps/HRApp_Steps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/HRApp_Steps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/steps/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/Hooks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/steps/MultipleData_steps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/MultipleData_steps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/steps/Wikipedia_Steps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/Wikipedia_Steps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/steps/mehmet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/mehmet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/ExcelRead.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ApachePOI/ExcelRead.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/ExcelWrite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ApachePOI/ExcelWrite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/GasMileageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ApachePOI/GasMileageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/DBUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/DBUtility.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/google.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/multipleData.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/multipleData.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/test.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/test.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/wikipedia.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/wikipedia.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/wikipediaSeachSO.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/wikipediaSeachSO.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/hrapp_feature/Database and Front end data validation.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/hrapp_feature/Database and Front end data validation.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cucumber/embedded0.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber/embedded0.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cucumber/formatter.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber/formatter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cucumber/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cucumber/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber/report.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/report.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/report.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-runners.Runner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-runners.Runner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/runners.Runner.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/runners.Runner.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/IbrahimsMentoring/FindPrimeNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/IbrahimsMentoring/FindPrimeNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/IbrahimsMentoring/StringReverseMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/IbrahimsMentoring/StringReverseMethods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/chicago11cucumberjunit.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/app/tests/JDBCConnection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/google.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/multipleData.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/multipleData.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/test.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/test.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/wikipedia.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/wikipedia.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/wikipediaSeachSO.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/wikipediaSeachSO.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/hrapp_feature/Database and Front end data validation.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/hrapp_feature/Database and Front end data validation.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/WikipediaHomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/WikipediaHomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/runners/Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/runners/Runner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/steps/Amazon_Steps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/steps/Amazon_Steps.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/steps/HRApp_Steps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/steps/HRApp_Steps.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/steps/Hooks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/steps/Hooks.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/steps/MultipleData_steps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/steps/MultipleData_steps.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/steps/Wikipedia_Steps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/steps/Wikipedia_Steps.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/steps/mehmet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/steps/mehmet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/ExcelRead.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/ExcelWrite.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/GasMileageTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/DBUtility$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/DBUtility$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/DBUtility.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/DBUtility.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/Driver.class" afterDir="false" />
-    </list>
+    <list default="true" id="e090a804-bcb3-455d-8c5d-c5e8ba4f9e23" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -292,6 +170,14 @@
       <option name="presentableId" value="Default" />
       <updated>1563730768593</updated>
     </task>
+    <task id="LOCAL-00001" summary="adding new codes">
+      <created>1577025461716</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577025461716</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -307,11 +193,19 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding new codes" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding new codes" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="543" y="222" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575913286334">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="543" y="222" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1575913286334" />
+    <state x="373" y="9" key="CommitChangelistDialog2" timestamp="1577026218216">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="373" y="9" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1577026218216" />
     <state width="1493" height="84" key="GridCell.Tab.0.bottom" timestamp="1576183954445">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -332,6 +226,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="279" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1576198760032" />
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1577025509295">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1577025509295" />
     <state x="125" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1576729655255">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
