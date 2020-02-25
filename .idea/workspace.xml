@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e090a804-bcb3-455d-8c5d-c5e8ba4f9e23" name="Default Changelist" comment="" />
+    <list default="true" id="e090a804-bcb3-455d-8c5d-c5e8ba4f9e23" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -198,10 +203,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="adding new codes" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="543" y="222" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575913286334">
+    <state x="543" y="222" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582652229534">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="543" y="222" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1575913286334" />
+    <state x="543" y="222" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1582652229534" />
     <state x="373" y="9" key="CommitChangelistDialog2" timestamp="1577026218216">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -242,10 +247,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="600" height="424" key="javadoc.popup/0.0.1536.824@0.0.1536.824" timestamp="1575924653897" />
-    <state x="807" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1576733120270">
+    <state x="807" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1582652291917">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="807" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1576733120270" />
+    <state x="807" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1582652291917" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/chicago11cucumberjunit$pracitce.ic" NAME="pracitce Coverage Results" MODIFIED="1564847655249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
