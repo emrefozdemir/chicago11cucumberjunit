@@ -1,14 +1,17 @@
 package realRestAssured;
 
-import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
-import lombok.Data;
-
 import java.util.List;
 
-@Data
-@JsonIgnoreProperties(ignoreUnknown = true)
+
 public class GeneralResponse {
 
-    List<GeneralTeacher> teachers;
+    List<WorldWide> worldWides;
 
+    public List<WorldWide> getWorldWides() {
+        return worldWides;
+    }
+
+    public void setWorldWides(List<WorldWide> worldWides) {
+        this.worldWides = worldWides;
+    }
 }

@@ -4,6 +4,7 @@ import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 import org.junit.Assert;
+import org.openqa.selenium.By;
 import pages.WikipediaHomePage;
 import utilities.Config;
 import utilities.Driver;
@@ -28,7 +29,9 @@ public class Wikipedia_Steps {
 
     @Then("User sees {string} is in the title")
     public void user_sees_is_in_the_title(String string) {
-        Assert.assertTrue(Driver.getDriver().getTitle().contains(string));
+//        Assert.assertTrue(Driver.getDriver().getTitle().contains(string));
+        Assert.assertEquals( string + " - Wikipedia",Driver.getDriver().getTitle());
+
     }
 
 }

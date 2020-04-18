@@ -2,7 +2,6 @@
 Feature: Wikipedia Search Functionality Title Verification
 
   @testReport
-
   Scenario:
   Given User is on Wikipedia home page
   When User types "Steve Jobs" in the search box

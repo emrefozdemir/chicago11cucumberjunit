@@ -2,9 +2,8 @@ package realRestAssured;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import lombok.Data;
+import org.junit.Assert;
 
-@Data
-@JsonIgnoreProperties(ignoreUnknown = true)
 public class GeneralTeacher {
 
     private int batch;

@@ -20,4 +20,5 @@ public class WikipediaHomePage {
     @FindBy(css = "#firstHeading")
     public WebElement titleText;
 
+
 }

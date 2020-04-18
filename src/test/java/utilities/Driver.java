@@ -8,7 +8,6 @@ import java.util.concurrent.TimeUnit;
 
 public class Driver {
 
-
     private static WebDriver driver;
 
     public static WebDriver getDriverReference(){
@@ -35,7 +34,7 @@ public class Driver {
             }
 
             driver.manage().timeouts().implicitlyWait(12, TimeUnit.SECONDS);
-//            driver.manage().window().maximize();
+            driver.manage().window().maximize();
         }
             return driver;
     }
