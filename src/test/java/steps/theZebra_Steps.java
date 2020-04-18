@@ -22,7 +22,7 @@ public class theZebra_Steps {
 
     }
 
-    @Then("User provides required data for quote")
+    @Then("User provides required data for getting quote")
     public void userProvidesRequiredDataForQuote(Map<String, String> dataMap) {
         System.out.println(dataMap);
         UIHelper.selectRadioButton(dataMap.get("insured"));
