@@ -22,4 +22,8 @@ public class MultipleData_steps {
 //       Driver.quitDriver();
     }
 
+    @io.cucumber.java.en.Given("a user on this page")
+    public void aUserOnThisPage() {
+
+    }
 }
